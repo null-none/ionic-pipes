@@ -1,0 +1,18 @@
+{
+  "name": "ionic-pipes",
+  "version": "0.0.1",
+  "description": "Usefull pipes for ionic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/null-none/ionic-pipes.git"
+  }, 
+  "dependencies": {
+    "@angular/core": "^4.3.3"
+  },
+  "author": "Dmitry Kalinin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-none/ionic-pipes/issues"
+  },
+  "homepage": "https://github.com/null-none/ionic-pipes#readme"
+}
