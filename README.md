@@ -8,6 +8,12 @@ Usefull pipes for ionic
 npm install ionic-pipes
 ```
 
+## Pipes
+
+- Filter Array
+- Search
+- Strip HTML
+
 ## License
 MIT
 
