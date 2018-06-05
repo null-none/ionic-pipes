@@ -13,6 +13,7 @@ npm install ionic-pipes
 - Filter Array
 - Search
 - Strip HTML
+- Tags
 
 ## License
 MIT
