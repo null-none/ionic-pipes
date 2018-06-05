@@ -15,6 +15,14 @@ npm install ionic-pipes
 - Strip HTML
 - Tags
 
+
+## TODO
+
+- UpperCase
+- LowerCase
+- Capitalize first letter
+
+
 ## License
 MIT
 
